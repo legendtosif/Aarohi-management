@@ -51,7 +51,7 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1002025076123"
+         "value": "-1001997798206"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -61,17 +61,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "7078181502"
+         "value": "5268691896"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://files.catbox.moe/qs7igd.jpg"
+         "value": "https://files.catbox.moe/pausrx.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "lolpagalokigc"
+         "value": "zenitsu_xsupport"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
