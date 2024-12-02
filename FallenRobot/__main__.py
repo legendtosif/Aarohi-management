@@ -89,7 +89,7 @@ IMG = [
 
 PM_START_TEXT = """
 *Hello* {}[✨]({})
- ɪ ᴀᴍ ᴢᴇɴɪᴛsᴜ, ᴀ ᴅᴇᴍᴏɴ sʟᴀʏᴇʀ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ 
+✨ɪ ᴀᴍ ᴢᴇɴɪᴛsᴜ, ᴀ ᴅᴇᴍᴏɴ sʟᴀʏᴇʀ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ 
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
 🌌 Cᴏɴᴛʀᴏʟ Yᴏᴜʀ Gʀᴏᴜᴘ Eғғᴏʀᴛʟᴇssʟʏ.Tʏᴘᴇ /ʜᴇʟᴘ Tᴏ Uɴᴠᴇɪʟ Yᴏᴜʀ Lᴏᴠᴇ.
 Lᴇᴛ's Bʀɪɴɢ Oʀᴅᴇʀ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ!.
@@ -134,8 +134,8 @@ HELP_STRINGS = f"""
  ➛ /help: PM's you this message.  
  ➛ /help <module name>: PM's you info about that module.
  ➛ /settings:
-   ❂ in PM: will send you your settings for all supported modules.
-   ❂ in a group: will redirect you to pm, with all that chat's setting
+   ➹ in PM: will send you your settings for all supported modules.
+   ➹ in a group: will redirect you to pm, with all that chat's setting
 """
 
 DONATE_STRING = """ I am free for everyone """
@@ -390,7 +390,7 @@ def dazai_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="Uᴘᴅᴀᴛᴇꜱ",
-                            url="https://t.me/lolpagalokigc",
+                            url="https://t.me/zenitsu_bot_support",
                         ),
                     ],
                     [
