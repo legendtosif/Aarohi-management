@@ -75,21 +75,21 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_IMG = "https://files.catbox.moe/2malxb.jpg"
+PM_START_IMG = "https://files.catbox.moe/2o3qdv.jpg"
 
 PHOTO = [
-    "https://files.catbox.moe/2malxb.jpg",
+    "https://files.catbox.moe/2o3qdv.jpg",
 ]
 
 
 IMG = [
-    "https://files.catbox.moe/2malxb.jpg",
+    "https://files.catbox.moe/2o3qdv.jpg",
 ]
 
 
 PM_START_TEXT = """
 *Hello* {}[✨]({})
- I Aᴍ Yᴏᴜʀ  HANABI. HYUGA ᴛʜᴇᴍᴇᴅ ᴍᴀɴɢᴇᴍᴇɴᴛ ʙᴏᴛ 
+ ɪ ᴀᴍ ᴢᴇɴɪᴛsᴜ, ᴀ ᴅᴇᴍᴏɴ sʟᴀʏᴇʀ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ 
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
 🌌 Cᴏɴᴛʀᴏʟ Yᴏᴜʀ Gʀᴏᴜᴘ Eғғᴏʀᴛʟᴇssʟʏ.Tʏᴘᴇ /ʜᴇʟᴘ Tᴏ Uɴᴠᴇɪʟ Yᴏᴜʀ Lᴏᴠᴇ.
 Lᴇᴛ's Bʀɪɴɢ Oʀᴅᴇʀ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ!.
@@ -106,7 +106,7 @@ buttons = [
         InlineKeyboardButton(text="Aʙᴏᴜᴛ", callback_data="dazai_"),
     ],
     [
-        InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇ", url=f"https://t.me/lolpagalokigc"),
+        InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇ", url=f"https://t.me/as_cosmos"),
         InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -123,13 +123,13 @@ GROUP_START_BTN = [
     ],
     [
         InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="ɴᴇᴛᴡᴏʀᴋ", url=f"https://t.me/PiratesBotRepo"),
+        InlineKeyboardButton(text="ɴᴇᴛᴡᴏʀᴋ", url=f"https://t.me/hxh_network"),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-  Main commands available: [ ](https://files.catbox.moe/uiabmu.jpg)
+  Main commands available: [ ](https://files.catbox.moe/zc6nue.jpg)
  
  ➛ /help: PM's you this message.  
  ➛ /help <module name>: PM's you info about that module.
