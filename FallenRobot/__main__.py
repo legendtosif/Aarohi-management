@@ -92,25 +92,25 @@ PM_START_TEXT = """
 ✨ɪ ᴀᴍ ᴢᴇɴɪᴛsᴜ, ᴀ ᴅᴇᴍᴏɴ sʟᴀʏᴇʀ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ 
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
 🌌 Cᴏɴᴛʀᴏʟ Yᴏᴜʀ Gʀᴏᴜᴘ Eғғᴏʀᴛʟᴇssʟʏ.Tʏᴘᴇ /ʜᴇʟᴘ Tᴏ Uɴᴠᴇɪʟ Yᴏᴜʀ Lᴏᴠᴇ.
-Lᴇᴛ's Bʀɪɴɢ Oʀᴅᴇʀ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ!.
+Lᴇᴛ's Bʀɪɴɢ Oʀᴅᴇʀ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ!♡.
 """
 buttons = [
     [
         InlineKeyboardButton(
-            text="Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+            text="✙Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ✙",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="Mᴜsɪᴄ", callback_data="Music_"),
-        InlineKeyboardButton(text="Aʙᴏᴜᴛ", callback_data="dazai_"),
+        InlineKeyboardButton(text="☆Mᴜsɪᴄ☆", callback_data="Music_"),
+        InlineKeyboardButton(text="☆Aʙᴏᴜᴛ☆", callback_data="dazai_"),
     ],
     [
-        InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇ", url=f"https://t.me/as_cosmos"),
-        InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="☆Uᴘᴅᴀᴛᴇ☆", url=f"https://t.me/as_cosmos"),
+        InlineKeyboardButton(text="☆Sᴜᴘᴘᴏʀᴛ☆", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
+        InlineKeyboardButton(text="♧Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅs♧", callback_data="help_back"),
     ],
 ]
 
